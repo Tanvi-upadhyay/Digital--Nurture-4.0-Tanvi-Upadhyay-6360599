@@ -1,0 +1,9 @@
+﻿East,Electronics,4
+East,NULL,4
+North,Electronics,5
+North,NULL,5
+South,Electronics,1
+South,NULL,1
+West,Electronics,5
+West,NULL,5
+NULL,NULL,15
