@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "dgSpecHash": "GqCvWrTKm1g=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NET.Test.Sdk (>= 17.8.0)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "libraryId": "Microsoft.NET.Test.Sdk",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Moq (>= 4.18.4)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "libraryId": "Moq",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NUnit (>= 3.13.3)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "libraryId": "NUnit",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'NUnit3TestAdapter (>= 4.5.0)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib.Tests\\CustomerCommLib.Tests.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

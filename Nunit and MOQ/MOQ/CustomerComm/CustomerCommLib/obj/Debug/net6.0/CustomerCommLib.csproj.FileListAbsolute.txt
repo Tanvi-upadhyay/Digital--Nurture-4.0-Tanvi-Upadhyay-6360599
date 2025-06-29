@@ -1,0 +1,12 @@
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\bin\Debug\net6.0\CustomerCommLib.deps.json
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\bin\Debug\net6.0\CustomerCommLib.dll
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\bin\Debug\net6.0\CustomerCommLib.pdb
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.csproj.AssemblyReference.cache
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.AssemblyInfoInputs.cache
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.AssemblyInfo.cs
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.dll
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\refint\CustomerCommLib.dll
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\CustomerCommLib.pdb
+C:\Users\KIIT\Downloads\MyDocs\Cognizant\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\Nunit and MOQ\CustomerCommSolution_WithSln\CustomerCommLib\obj\Debug\net6.0\ref\CustomerCommLib.dll

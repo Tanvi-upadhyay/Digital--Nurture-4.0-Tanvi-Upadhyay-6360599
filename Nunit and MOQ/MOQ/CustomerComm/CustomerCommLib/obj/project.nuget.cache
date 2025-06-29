@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZJ2EgK67vFM=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib\\CustomerCommLib.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib\\CustomerCommLib.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib\\CustomerCommLib.csproj",
+      "libraryId": "Microsoft.NETCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.WindowsDesktop.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib\\CustomerCommLib.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib\\CustomerCommLib.csproj",
+      "libraryId": "Microsoft.WindowsDesktop.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.AspNetCore.App.Ref (= 6.0.36)' for 'net6.0'.",
+      "projectPath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib\\CustomerCommLib.csproj",
+      "filePath": "C:\\Users\\KIIT\\Downloads\\MyDocs\\Cognizant\\Digital--Nurture-4.0-Tanvi-Upadhyay-6360599\\Nunit and MOQ\\CustomerCommSolution_WithSln\\CustomerCommLib\\CustomerCommLib.csproj",
+      "libraryId": "Microsoft.AspNetCore.App.Ref",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
