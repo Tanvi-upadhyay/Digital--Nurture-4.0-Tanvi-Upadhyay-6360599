@@ -1,1 +1,0 @@
-// Controller with AllowAnonymous and token generation
