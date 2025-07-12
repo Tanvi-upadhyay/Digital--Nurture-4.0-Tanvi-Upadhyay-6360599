@@ -1,0 +1,1 @@
+Follow https://www.c-sharpcorner.com/article/apache-kafka-net-application/ for setup

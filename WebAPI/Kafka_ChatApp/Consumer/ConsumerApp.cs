@@ -1,0 +1,1 @@
+// Consumer app for receiving messages from Kafka topic
